@@ -10,8 +10,8 @@ const reviews = [
     location: "United States",
     rating: 5,
     date: "May 10, 2026",
-    title: "Exceptional Trading Platform",
-    content: "Pnlmarkets has completely transformed my trading experience. The platform is intuitive, fast, and reliable. I've been trading forex and crypto for 5 years, and this is by far the best platform I've used. The execution speeds are incredible, and the analytics tools are top-notch.",
+    title: "Life-changing platform!",
+    content: "I deposited $50,000 and started trading 3 months ago. Already made $127,000 in profits! The execution speeds are lightning fast and the analytics tools are professional grade. This platform has completely changed my financial situation. Customer support is incredible - they helped me optimize my trading strategy. Highly recommend!",
     verified: true
   },
   {
@@ -20,18 +20,18 @@ const reviews = [
     location: "United Kingdom", 
     rating: 5,
     date: "May 8, 2026",
-    title: "Finally a platform that works",
-    content: "After trying multiple trading platforms, I found Pnlmarkets. The customer support is outstanding - they actually help you understand the markets. I've made consistent profits since joining. Highly recommend for both beginners and experienced traders.",
+    title: "Best decision I ever made!",
+    content: "Started with $25,000 deposit, now my account is at $89,000! The platform is so intuitive and the withdrawal process is instant - no delays whatsoever. The educational resources helped me understand advanced trading concepts. Made my first $10,000 profit last month. Absolutely thrilled!",
     verified: true
   },
   {
     id: 3,
     name: "David K.",
     location: "Germany",
-    rating: 4,
+    rating: 5,
     date: "May 5, 2026",
-    title: "Solid platform with room for improvement",
-    content: "Great overall experience. The trading interface is clean and professional. Execution is fast and reliable. Only giving 4 stars because I'd like to see more advanced charting tools, but for most traders, this is more than sufficient.",
+    title: "Professional and profitable!",
+    content: "Deposited $75,000 and the platform matched my expectations perfectly. Execution is institutional-grade with zero slippage. Made $23,000 in my first month! The risk management tools are exactly what serious traders need. This is the real deal!",
     verified: true
   },
   {
@@ -40,8 +40,8 @@ const reviews = [
     location: "Canada",
     rating: 5,
     date: "May 3, 2026",
-    title: "Best for crypto trading",
-    content: "I specifically use Pnlmarkets for cryptocurrency trading and it's been fantastic. The variety of coins available is impressive, and the fees are very competitive. The security features give me peace of mind when trading larger amounts.",
+    title: "Absolutely incredible!",
+    content: "I was skeptical at first, but after depositing $100,000, I've already withdrawn $145,000 in profits! The platform is rock-solid and the mobile app works flawlessly. Customer service responds within minutes. This has exceeded all my expectations!",
     verified: true
   },
   {
@@ -50,18 +50,18 @@ const reviews = [
     location: "Australia",
     rating: 5,
     date: "April 28, 2026",
-    title: "Institutional quality retail platform",
-    content: "The institutional-grade analytics are a game-changer. I used to pay premium for similar tools from other providers. Having them built into the platform at no extra cost is amazing. The real-time execution is professional grade.",
+    title: "Game-changer for serious traders!",
+    content: "Been trading for 10 years and this is by far the best platform I've used. Deposited $200,000 and the liquidity is unmatched. Made $58,000 last quarter! The advanced charting and analytics tools are better than platforms charging $500/month. Exceptional!",
     verified: true
   },
   {
     id: 6,
     name: "Emma S.",
     location: "France",
-    rating: 4,
+    rating: 5,
     date: "April 25, 2026",
-    title: "Reliable and trustworthy",
-    content: "Been using Pnlmarkets for 8 months now. No issues with withdrawals, customer support is responsive, and the platform is stable. The mobile app could use some improvements, but the web platform is excellent.",
+    title: "Exceeded my wildest dreams!",
+    content: "Started with $15,000 and now I'm consistently making $8,000-12,000 per month! The platform's stability is unmatched - never had a single issue with withdrawals. The community of successful traders is inspiring. Life-changing opportunity!",
     verified: true
   },
   {
@@ -70,8 +70,8 @@ const reviews = [
     location: "Singapore",
     rating: 5,
     date: "April 22, 2026",
-    title: "Perfect for day trading",
-    content: "As a day trader, execution speed is everything. Pnlmarkets delivers consistently fast execution with minimal slippage. The interface is designed for active traders - everything you need is right where you expect it to be.",
+    title: "Professional trading at its finest!",
+    content: "Deposited $35,000 and the execution speed is phenomenal. Zero downtime and instant trade confirmations. Already up $42,000 from my initial investment in just 6 weeks! The platform's security gives me complete confidence trading large amounts.",
     verified: true
   },
   {
@@ -80,8 +80,8 @@ const reviews = [
     location: "Spain",
     rating: 5,
     date: "April 18, 2026",
-    title: "Excellent customer service",
-    content: "What sets Pnlmarkets apart is their customer service. When I had questions about margin trading, they took the time to explain everything clearly. You can tell they genuinely care about their traders' success.",
+    title: "Outstanding platform!",
+    content: "I've tried dozens of platforms but nothing compares to Pnlmarkets. Deposited $60,000 and the profit potential is incredible. Made $18,000 last month alone! Customer support is available 24/7 and actually knows their stuff. This is the future of trading!",
     verified: true
   }
 ];
