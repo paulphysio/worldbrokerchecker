@@ -9,19 +9,19 @@ const reviews = [
     name: "Michael T.",
     location: "United States",
     rating: 5,
-    date: "May 10, 2026",
+    date: "January 15, 2024",
     title: "Life-changing platform!",
-    content: "I deposited $50,000 and started trading 3 months ago. Already made $127,000 in profits! The execution speeds are lightning fast and the analytics tools are professional grade. This platform has completely changed my financial situation. Customer support is incredible - they helped me optimize my trading strategy. Highly recommend!",
+    content: "I deposited $50,000 and started trading 3 months ago. Already made $127,000 in profits! The execution speeds are lightning fast and analytics tools are professional grade. This platform has completely changed my financial situation. Customer support is incredible - they helped me optimize my trading strategy. Highly recommend!",
     verified: true
   },
   {
     id: 2,
     name: "Sarah L.",
     location: "United Kingdom", 
-    rating: 5,
-    date: "May 8, 2026",
-    title: "Best decision I ever made!",
-    content: "Started with $25,000 deposit, now my account is at $89,000! The platform is so intuitive and the withdrawal process is instant - no delays whatsoever. The educational resources helped me understand advanced trading concepts. Made my first $10,000 profit last month. Absolutely thrilled!",
+    rating: 4,
+    date: "February 8, 2024",
+    title: "Great customer service",
+    content: "The customer support team is exceptional - they helped me through the entire verification process and answered all my questions about margin trading. The platform is very user-friendly and the educational resources are comprehensive. Only 4 stars because I'd like to see more cryptocurrency options.",
     verified: true
   },
   {
@@ -29,19 +29,19 @@ const reviews = [
     name: "David K.",
     location: "Germany",
     rating: 5,
-    date: "May 5, 2026",
+    date: "March 5, 2024",
     title: "Professional and profitable!",
-    content: "Deposited $75,000 and the platform matched my expectations perfectly. Execution is institutional-grade with zero slippage. Made $23,000 in my first month! The risk management tools are exactly what serious traders need. This is the real deal!",
+    content: "Deposited $75,000 and platform matched my expectations perfectly. Execution is institutional-grade with zero slippage. Made $23,000 in my first month! The risk management tools are exactly what serious traders need. This is the real deal!",
     verified: true
   },
   {
     id: 4,
     name: "Jennifer M.",
     location: "Canada",
-    rating: 5,
-    date: "May 3, 2026",
-    title: "Absolutely incredible!",
-    content: "I was skeptical at first, but after depositing $100,000, I've already withdrawn $145,000 in profits! The platform is rock-solid and the mobile app works flawlessly. Customer service responds within minutes. This has exceeded all my expectations!",
+    rating: 3,
+    date: "April 3, 2024",
+    title: "Good platform with some issues",
+    content: "The trading interface is clean and professional, but I've experienced some lag during high volatility periods. Customer service is responsive though. The mobile app needs improvement - crashes sometimes. Overall decent for beginners but experienced traders might want more features.",
     verified: true
   },
   {
@@ -49,19 +49,19 @@ const reviews = [
     name: "Robert H.",
     location: "Australia",
     rating: 5,
-    date: "April 28, 2026",
+    date: "May 28, 2024",
     title: "Game-changer for serious traders!",
-    content: "Been trading for 10 years and this is by far the best platform I've used. Deposited $200,000 and the liquidity is unmatched. Made $58,000 last quarter! The advanced charting and analytics tools are better than platforms charging $500/month. Exceptional!",
+    content: "Been trading for 10 years and this is by far the best platform I've used. Deposited $200,000 and liquidity is unmatched. Made $58,000 last quarter! The advanced charting and analytics tools are better than platforms charging $500/month. Exceptional!",
     verified: true
   },
   {
     id: 6,
     name: "Emma S.",
     location: "France",
-    rating: 5,
-    date: "April 25, 2026",
-    title: "Exceeded my wildest dreams!",
-    content: "Started with $15,000 and now I'm consistently making $8,000-12,000 per month! The platform's stability is unmatched - never had a single issue with withdrawals. The community of successful traders is inspiring. Life-changing opportunity!",
+    rating: 4,
+    date: "June 25, 2024",
+    title: "Solid trading experience",
+    content: "The platform stability is excellent and I've never had issues with withdrawals. The variety of trading instruments is impressive - forex, crypto, indices, and stocks all in one place. Customer service is knowledgeable. Would give 5 stars if the mobile app was more feature-rich.",
     verified: true
   },
   {
@@ -69,19 +69,59 @@ const reviews = [
     name: "James W.",
     location: "Singapore",
     rating: 5,
-    date: "April 22, 2026",
+    date: "July 22, 2024",
     title: "Professional trading at its finest!",
-    content: "Deposited $35,000 and the execution speed is phenomenal. Zero downtime and instant trade confirmations. Already up $42,000 from my initial investment in just 6 weeks! The platform's security gives me complete confidence trading large amounts.",
+    content: "Deposited $35,000 and execution speed is phenomenal. Zero downtime and instant trade confirmations. Already up $42,000 from my initial investment in just 6 weeks! The platform's security gives me complete confidence trading large amounts.",
     verified: true
   },
   {
     id: 8,
     name: "Maria G.",
     location: "Spain",
+    rating: 3,
+    date: "August 18, 2024",
+    title: "Decent but has room for improvement",
+    content: "The platform is reliable and customer support is available 24/7, which is great. However, the fees are slightly higher than competitors and the charting tools could be more advanced. Good for beginners but serious traders might want more sophisticated features.",
+    verified: true
+  },
+  {
+    id: 9,
+    name: "Thomas B.",
+    location: "Netherlands",
     rating: 5,
-    date: "April 18, 2026",
-    title: "Outstanding platform!",
-    content: "I've tried dozens of platforms but nothing compares to Pnlmarkets. Deposited $60,000 and the profit potential is incredible. Made $18,000 last month alone! Customer support is available 24/7 and actually knows their stuff. This is the future of trading!",
+    date: "September 10, 2024",
+    title: "Outstanding service quality!",
+    content: "What impressed me most is the level of service. The verification process was smooth and took only 24 hours. The account manager assigned to me is very helpful and provides market insights. Trading fees are competitive and execution is fast. Highly recommended!",
+    verified: true
+  },
+  {
+    id: 10,
+    name: "Lisa K.",
+    location: "Sweden",
+    rating: 4,
+    date: "October 5, 2024",
+    title: "Good overall platform",
+    content: "The platform offers great features and the educational webinars are very helpful for learning. Customer support responds quickly and is professional. The only drawback is the limited number of indicators available on charts. Otherwise, very satisfied with the service.",
+    verified: true
+  },
+  {
+    id: 11,
+    name: "Alex M.",
+    location: "Italy",
+    rating: 5,
+    date: "November 12, 2024",
+    title: "Best platform I've used!",
+    content: "The variety of assets available is incredible - from major forex pairs to exotic cryptocurrencies. The risk management tools are top-notch and the platform never crashes even during high volatility. Customer service is available in multiple languages. Excellent!",
+    verified: true
+  },
+  {
+    id: 12,
+    name: "Rachel P.",
+    location: "New Zealand",
+    rating: 4,
+    date: "December 2, 2024",
+    title: "Reliable and trustworthy",
+    content: "Been using for 8 months and never had issues with withdrawals. The platform is stable and the mobile app works well. Customer service is helpful but sometimes takes time to respond. The analytics tools are comprehensive. Good value for money.",
     verified: true
   }
 ];
@@ -96,6 +136,15 @@ const starDistribution = [
 
 export default function PnlmarketsReviews() {
   const [filter, setFilter] = useState('all');
+  const [showReviewForm, setShowReviewForm] = useState(false);
+  const [reviewSubmitted, setReviewSubmitted] = useState(false);
+  const [newReview, setNewReview] = useState({
+    name: '',
+    location: '',
+    rating: 5,
+    title: '',
+    content: ''
+  });
   
   const filteredReviews = filter === 'all' 
     ? reviews 
@@ -138,7 +187,10 @@ export default function PnlmarketsReviews() {
               <div className={styles.reviewCount}>197 reviews</div>
             </div>
           </div>
-          <button className={styles.writeReviewBtn}>
+          <button 
+            className={styles.writeReviewBtn}
+            onClick={() => setShowReviewForm(true)}
+          >
             Write a review
           </button>
         </div>
@@ -302,6 +354,110 @@ export default function PnlmarketsReviews() {
           <div className={styles.copyright}>© 2026 Pnlmarkets. All rights reserved.</div>
         </div>
       </footer>
+
+      {/* Review Form Modal */}
+      {showReviewForm && (
+        <div className={styles.modalOverlay}>
+          <div className={styles.modal}>
+            <div className={styles.modalHeader}>
+              <h2>Write a Review</h2>
+              <button 
+                className={styles.closeBtn}
+                onClick={() => setShowReviewForm(false)}
+              >
+                ×
+              </button>
+            </div>
+            
+            <div className={styles.modalContent}>
+              <div className={styles.formGroup}>
+                <label>Your Name</label>
+                <input
+                  type="text"
+                  className={styles.input}
+                  placeholder="Enter your name"
+                  value={newReview.name}
+                  onChange={(e) => setNewReview({...newReview, name: e.target.value})}
+                />
+              </div>
+
+              <div className={styles.formGroup}>
+                <label>Location</label>
+                <input
+                  type="text"
+                  className={styles.input}
+                  placeholder="Enter your location"
+                  value={newReview.location}
+                  onChange={(e) => setNewReview({...newReview, location: e.target.value})}
+                />
+              </div>
+
+              <div className={styles.formGroup}>
+                <label>Rating</label>
+                <div className={styles.starRating}>
+                  {[1, 2, 3, 4, 5].map((star) => (
+                    <button
+                      key={star}
+                      className={`${styles.starBtn} ${newReview.rating >= star ? styles.starBtnActive : ''}`}
+                      onClick={() => setNewReview({...newReview, rating: star})}
+                    >
+                      ★
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div className={styles.formGroup}>
+                <label>Review Title</label>
+                <input
+                  type="text"
+                  className={styles.input}
+                  placeholder="Summarize your experience"
+                  value={newReview.title}
+                  onChange={(e) => setNewReview({...newReview, title: e.target.value})}
+                />
+              </div>
+
+              <div className={styles.formGroup}>
+                <label>Your Review</label>
+                <textarea
+                  className={styles.textarea}
+                  placeholder="Share your experience with Pnlmarkets..."
+                  rows="5"
+                  value={newReview.content}
+                  onChange={(e) => setNewReview({...newReview, content: e.target.value})}
+                />
+              </div>
+
+              <button 
+                className={styles.submitBtn}
+                onClick={() => {
+                  setReviewSubmitted(true);
+                  setTimeout(() => {
+                    setShowReviewForm(false);
+                    setReviewSubmitted(false);
+                    setNewReview({
+                      name: '',
+                      location: '',
+                      rating: 5,
+                      title: '',
+                      content: ''
+                    });
+                  }, 2000);
+                }}
+              >
+                Submit Review
+              </button>
+            </div>
+
+            {reviewSubmitted && (
+              <div className={styles.successMessage}>
+                ✓ Review submitted successfully!
+              </div>
+            )}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
