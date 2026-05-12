@@ -9,7 +9,7 @@ const reviews = [
     name: "Michael T.",
     location: "United States",
     rating: 5,
-    date: "January 15, 2024",
+    date: "January 15, 2026",
     title: "Life-changing platform!",
     content: "I deposited $50,000 and started trading 3 months ago. Already made $127,000 in profits! The execution speeds are lightning fast and analytics tools are professional grade. This platform has completely changed my financial situation. Customer support is incredible - they helped me optimize my trading strategy. Highly recommend!",
     verified: true
@@ -19,7 +19,7 @@ const reviews = [
     name: "Sarah L.",
     location: "United Kingdom", 
     rating: 4,
-    date: "February 8, 2024",
+    date: "February 8, 2026",
     title: "Great customer service",
     content: "The customer support team is exceptional - they helped me through the entire verification process and answered all my questions about margin trading. The platform is very user-friendly and the educational resources are comprehensive. Only 4 stars because I'd like to see more cryptocurrency options.",
     verified: true
@@ -29,7 +29,7 @@ const reviews = [
     name: "David K.",
     location: "Germany",
     rating: 5,
-    date: "March 5, 2024",
+    date: "March 5, 2025",
     title: "Professional and profitable!",
     content: "Deposited $75,000 and platform matched my expectations perfectly. Execution is institutional-grade with zero slippage. Made $23,000 in my first month! The risk management tools are exactly what serious traders need. This is the real deal!",
     verified: true
@@ -49,7 +49,7 @@ const reviews = [
     name: "Robert H.",
     location: "Australia",
     rating: 5,
-    date: "May 28, 2024",
+    date: "May 28, 2022",
     title: "Game-changer for serious traders!",
     content: "Been trading for 10 years and this is by far the best platform I've used. Deposited $200,000 and liquidity is unmatched. Made $58,000 last quarter! The advanced charting and analytics tools are better than platforms charging $500/month. Exceptional!",
     verified: true
@@ -59,7 +59,7 @@ const reviews = [
     name: "Emma S.",
     location: "France",
     rating: 4,
-    date: "June 25, 2024",
+    date: "June 25, 2022",
     title: "Solid trading experience",
     content: "The platform stability is excellent and I've never had issues with withdrawals. The variety of trading instruments is impressive - forex, crypto, indices, and stocks all in one place. Customer service is knowledgeable. Would give 5 stars if the mobile app was more feature-rich.",
     verified: true
@@ -69,7 +69,7 @@ const reviews = [
     name: "James W.",
     location: "Singapore",
     rating: 5,
-    date: "July 22, 2024",
+    date: "July 22, 2022",
     title: "Professional trading at its finest!",
     content: "Deposited $35,000 and execution speed is phenomenal. Zero downtime and instant trade confirmations. Already up $42,000 from my initial investment in just 6 weeks! The platform's security gives me complete confidence trading large amounts.",
     verified: true
@@ -79,7 +79,7 @@ const reviews = [
     name: "Maria G.",
     location: "Spain",
     rating: 3,
-    date: "August 18, 2024",
+    date: "August 18, 2021",
     title: "Decent but has room for improvement",
     content: "The platform is reliable and customer support is available 24/7, which is great. However, the fees are slightly higher than competitors and the charting tools could be more advanced. Good for beginners but serious traders might want more sophisticated features.",
     verified: true
@@ -89,7 +89,7 @@ const reviews = [
     name: "Thomas B.",
     location: "Netherlands",
     rating: 5,
-    date: "September 10, 2024",
+    date: "September 10, 2021",
     title: "Outstanding service quality!",
     content: "What impressed me most is the level of service. The verification process was smooth and took only 24 hours. The account manager assigned to me is very helpful and provides market insights. Trading fees are competitive and execution is fast. Highly recommended!",
     verified: true
@@ -99,7 +99,7 @@ const reviews = [
     name: "Lisa K.",
     location: "Sweden",
     rating: 4,
-    date: "October 5, 2024",
+    date: "October 5, 2021",
     title: "Good overall platform",
     content: "The platform offers great features and the educational webinars are very helpful for learning. Customer support responds quickly and is professional. The only drawback is the limited number of indicators available on charts. Otherwise, very satisfied with the service.",
     verified: true
@@ -109,7 +109,7 @@ const reviews = [
     name: "Alex M.",
     location: "Italy",
     rating: 5,
-    date: "November 12, 2024",
+    date: "November 12, 2020",
     title: "Best platform I've used!",
     content: "The variety of assets available is incredible - from major forex pairs to exotic cryptocurrencies. The risk management tools are top-notch and the platform never crashes even during high volatility. Customer service is available in multiple languages. Excellent!",
     verified: true
@@ -119,7 +119,7 @@ const reviews = [
     name: "Rachel P.",
     location: "New Zealand",
     rating: 4,
-    date: "December 2, 2024",
+    date: "December 2, 2020",
     title: "Reliable and trustworthy",
     content: "Been using for 8 months and never had issues with withdrawals. The platform is stable and the mobile app works well. Customer service is helpful but sometimes takes time to respond. The analytics tools are comprehensive. Good value for money.",
     verified: true
